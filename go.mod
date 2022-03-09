@@ -1,4 +1,4 @@
-module github.com/cadams93/websocketproxy
+module github.com/divisionone/websocketproxy
 
 go 1.17
 
